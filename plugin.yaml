@@ -1,0 +1,9 @@
+name: mimo-quota
+version: 1.0.0
+description: Panel personal de cuota MiMo TokenPlan, consultado directamente a Xiaomi.
+author: gilmoth
+license: GPL-2.0-only
+requires_hermes: ">=0.23"
+requires_env: [MIMO_QUOTA_API_KEY]
+provides_tools: []
+provides_hooks: []
